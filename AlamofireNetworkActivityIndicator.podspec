@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.dependency 'Alamofire', '~> 4.7'
+  s.dependency 'Alamofire', '~> 4.6'
 end
